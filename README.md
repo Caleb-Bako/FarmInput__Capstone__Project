@@ -13,10 +13,7 @@ Millions of smallholder farmers across Nigeria overpay for fertilizers, seeds, p
 ---
 
 ## Screenshot
-
-![FarmInput Platform Preview](./screenshots/preview.png)
-
-> _Screenshot or API demo coming soon._
+<img width="804" height="763" alt="Screenshot 2026-01-12 111100" src="https://github.com/user-attachments/assets/c4fb6dc9-fd2e-46a7-80cb-9c3789c683aa" />
 
 ---
 
